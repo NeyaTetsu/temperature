@@ -1,5 +1,5 @@
 # temperature
-[検温をごまかす.app](https://neyatetsu.github.io/temperature/temperature.html)
+[検温をごまかす.app](https://neyatetsu.github.io/temperature/temperature)
 
 # LICENSE
 ## Public Domain  
