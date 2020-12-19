@@ -1,5 +1,5 @@
 # temperature
-[検温をごまかす.app](https://neyatetsu.github.io/temperature/temperature)
+[ランダム体温生成.app](https://neyatetsu.github.io/temperature/temperature)
 
 # LICENSE
 ## Public Domain  
